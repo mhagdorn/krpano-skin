@@ -16,7 +16,7 @@
 
 htmltemplate=html/embedpano.html
 
-xmltemplate=xml/vtour.xml
+xmltemplate=xml/marsupium.xml
 xmltemplate_scene=xml/vtour_scenetemplate.xml
 xmltemplate_view=xml/vtour_viewtemplate.xml
 xmltemplate_additional_file=xml/skin/vtourskin.xml
